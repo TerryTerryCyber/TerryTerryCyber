@@ -5,6 +5,8 @@
 - 📫 How to reach me: dm txryvxb3s on discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love to make scripts
+- i sometimes will have vercel sites on here (which are templates and i did not make them)
+- my current website is: https://txryvxb3s.com
 
 <!---
 TerryTerryCyber/TerryTerryCyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
