@@ -8,4 +8,4 @@
 - i sometimes will have vercel sites on here (which are templates and i did not make them)
 - my current website is: https://txryvxb3s.com
 
-(https://github-readme-stats.vercel.app/api?username=TerryTerryCyber)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerryTerryCyber)](https://github.com/anuraghazra/github-readme-stats)
