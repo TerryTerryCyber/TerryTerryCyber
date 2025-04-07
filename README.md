@@ -1,3 +1,4 @@
+   living my worst life :)
 - 👋 Hi, I’m @TerryTerryCyber
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
